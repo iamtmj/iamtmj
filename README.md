@@ -5,7 +5,7 @@
 
 - 🔭 Current Work: **Mirine Studios**
 
-- 📝 I regularly write articles on [https://medium.com/@officialmananjindal](https://medium.com/@officialmananjindal)
+- 📝 Blog: [https://medium.com/@officialmananjindal](https://medium.com/@officialmananjindal)
 
 - 📫 How to reach me **officialmananjindal@gmail.com**
 
