@@ -1,16 +1,22 @@
-### Hi there 👋
+package main
 
-<!--
-**surrealtmj/surrealtmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import (
+	"fmt"
+)
 
-Here are some ideas to get you started:
+type Bio map[string]string
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "Manan here, a coding enthusiast who embraces math and enjoys the beauty of music.",
+		"- 🔭 I’m currently working on":      "The Logic Workshop,Mirine Studios",
+		"- 🌱 Skills":        "Game Development,3D Modeling,Algorithm Design",
+		"- 📫 How to reach me:":              "officialmananjindal@gmail.com",
+	}
+}
