@@ -16,8 +16,8 @@ jobs:
       - name: Generate GitHub Profile 3D Contribution
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKENNAME }}
-          USERNAME: ${{ secrets.USERNAME }}
+          GITHUB_TOKEN: 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   # Replace with your GitHub token
+          USERNAME: iamtmj    # Replace with your GitHub username
 
       - name: Commit & Push
         run: |
