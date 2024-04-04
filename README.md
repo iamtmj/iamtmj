@@ -1,7 +1,7 @@
 <h1 align="center">Ahoy, Manan here</h1>
 <h3 align="center">A coding enthusiast who embraces math and enjoys the beauty of music.</h3>
 
-- 🔭 Current Work: [The Logic Workshop](https://surrealtmj.github.io/logicworkshop/)
+- 🔭 Current Work: [The Logic Workshop](https://iamtmj.github.io/logicworkshop/)
 
 - 🔭 Current Work: **Mirine Studios**
 
