@@ -1,7 +1,7 @@
 <h1 align="center">Name: Manan Jindal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtmj&label=Profile%20views&color=0e75b6&style=flat" alt="iamtmj" /> </p>
 
-<p align="left"> <a href="https://twitter.com/officialmananj" target="blank"><img src="https://img.shields.io/twitter/follow/officialmananj?logo=twitter&style=for-the-badge" alt="officialmananj" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
